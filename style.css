@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 .main-container{
-    height:800px;
-    width:800px;
+    height:600px;
+    width:600px;
     border:2px solid;
     margin:20px;
 }
@@ -14,26 +14,26 @@
 }
  
 .row1 .white{ 
-    width:100px;
-    height:100px;
+    width:75px;
+    height:75px;
  background-color:aliceblue ;
  text-align: center;
 }
 .row1 .black{
-    width:100px;
-    height:100px;
+    width:75px;
+    height:75px;
     background-color:lightslategray;
     text-align: center;
 }
 .row2 .white{
-    height:100px;
-    width:100px;
+    height:75px;
+    width:75px;
     background-color:lightslategray ;
     text-align: center;
 }
 .row2 .black{
-    width:100px; 
-    height:100px;
+    width:75px; 
+    height:75px;
     background-color:aliceblue;
     text-align: center;
 }
@@ -47,5 +47,5 @@ span{
     .main-container{
         display:block;
     }
-    
+
 }
